@@ -17,7 +17,7 @@
     <title>JSNext.fm</title>
     <itunes:subtitle>Chinese front-end podcast</itunes:subtitle>
 
-    <pubDate>Tue, 05 Jan 2016 07:50:46 GMT</pubDate>
+    <pubDate>Tue, 05 Jan 2016 14:16:10 GMT</pubDate>
 
     
     <item>
@@ -25,25 +25,53 @@
       <itunes:author>JSNext.fm</itunes:author>
       <itunes:subtitle>本期由三位主播回顾 2015 年前端技术的变化和展望 2016 年</itunes:subtitle>
       
-        <itunes:summary type="html">&lt;p&gt;本期由三位主播回顾 2015 年前端技术的变化和展望 2016 年。&lt;/p&gt;
+        <itunes:summary type="html">&lt;p&gt;本期是 JSNext.fm 第一期节目，由三位主播回顾 2015 年前端技术的变化和展望 2016 年。特别感谢&lt;a href=&quot;http://gold.xitu.io&quot;&gt;稀土掘金&lt;/a&gt;赞助。&lt;/p&gt;
 &lt;p&gt;相关连接&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://es6.ruanyifeng.com&quot;&gt;阮一峰的 ES6 教程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/css-modules/css-modules&quot;&gt;CSS Module&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/airbnb/javascript&quot;&gt;Airbnb JavaScript 风格指南&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/oneuijs/You-Dont-Need-jQuery&quot;&gt;You Don’t Need jQuery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://echarts.baidu.com/&quot;&gt;百度 ECharts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;几个比较酷炫的（微信内） HTML5 页面&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.h5shuo.com/pc&quot;&gt;http://www.h5shuo.com/pc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://ntes.seedboom.cn/index.php/Home/Goddess/index?from_h5shuo&quot;&gt;http://ntes.seedboom.cn/index.php/Home/Goddess/index?from_h5shuo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://didi.hecoe.com/&quot;&gt;http://didi.hecoe.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;节目最后介绍的『单身狗』&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://weibo.com/poshboytl&quot;&gt;Teahour.fm 主播 Terry&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</itunes:summary>
       
       <itunes:image href="http://7xprtg.com1.z0.glb.clouddn.com/jsnext-1400.png"></itunes:image>
-      <enclosure url="http://google.com/api.mp3" type="audio/mpeg" />
+      <enclosure url="http://7xprtg.com1.z0.glb.clouddn.com/e1-128.mp3" type="audio/mpeg" />
       <pubDate>Mon, 04 Jan 2016 10:29:25 GMT</pubDate>
-      <itunes:duration>7777</itunes:duration>
+      <itunes:duration>6161</itunes:duration>
 
       <link>http://jsnext.fm/2016/01/04/hello-world/</link>
 
       <guid>http://jsnext.fm/2016/01/04/hello-world/</guid>
       <description>
-      <![CDATA[<p>本期由三位主播回顾 2015 年前端技术的变化和展望 2016 年。</p>
+      <![CDATA[<p>本期是 JSNext.fm 第一期节目，由三位主播回顾 2015 年前端技术的变化和展望 2016 年。特别感谢<a href="http://gold.xitu.io">稀土掘金</a>赞助。</p>
 <p>相关连接</p>
 <ul>
+<li><a href="http://es6.ruanyifeng.com">阮一峰的 ES6 教程</a></li>
+<li><a href="https://github.com/css-modules/css-modules">CSS Module</a></li>
+<li><a href="https://github.com/airbnb/javascript">Airbnb JavaScript 风格指南</a></li>
 <li><a href="https://github.com/oneuijs/You-Dont-Need-jQuery">You Don’t Need jQuery</a></li>
+<li><a href="http://echarts.baidu.com/">百度 ECharts</a></li>
+</ul>
+<p>几个比较酷炫的（微信内） HTML5 页面</p>
+<ul>
+<li><a href="http://www.h5shuo.com/pc">http://www.h5shuo.com/pc</a></li>
+<li><a href="http://ntes.seedboom.cn/index.php/Home/Goddess/index?from_h5shuo">http://ntes.seedboom.cn/index.php/Home/Goddess/index?from_h5shuo</a></li>
+<li><a href="http://didi.hecoe.com/">http://didi.hecoe.com/</a></li>
+</ul>
+<p>节目最后介绍的『单身狗』</p>
+<ul>
+<li><a href="http://weibo.com/poshboytl">Teahour.fm 主播 Terry</a></li>
 </ul>]]>
       
       </description>
