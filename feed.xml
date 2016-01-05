@@ -11,13 +11,13 @@
       <itunes:name>JSNext.fm</itunes:name>
       <itunes:email>randypriv@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href=""></itunes:image>
+    <itunes:image href="http://7xprtg.com1.z0.glb.clouddn.com/jsnext-1400.png"></itunes:image>
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <title>JSNext.fm</title>
     <itunes:subtitle>Chinese front-end podcast</itunes:subtitle>
 
-    <pubDate>Tue, 05 Jan 2016 07:50:46 GMT</pubDate>
+    <pubDate>Tue, 05 Jan 2016 07:49:41 GMT</pubDate>
 
     
     <item>
@@ -31,7 +31,7 @@
 &lt;li&gt;&lt;a href=&quot;https://github.com/oneuijs/You-Dont-Need-jQuery&quot;&gt;You Don’t Need jQuery&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</itunes:summary>
       
-      <itunes:image href=""></itunes:image>
+      <itunes:image href="http://7xprtg.com1.z0.glb.clouddn.com/jsnext-1400.png"></itunes:image>
       <enclosure url="http://google.com/api.mp3" type="audio/mpeg" />
       <pubDate>Mon, 04 Jan 2016 10:29:25 GMT</pubDate>
       <itunes:duration>7777</itunes:duration>
