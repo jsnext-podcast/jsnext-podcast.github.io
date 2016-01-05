@@ -1,32 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title><![CDATA[JSNext.fm]]></title>
     <link>http://jsnext.fm/</link>
+    <language>zh-CN</language>
     <copyright>&amp;#x2117; &amp;amp; &amp;#xA9; 2016 JSNext.fm</copyright>
-
     <itunes:author>JSNext.fm</itunes:author>
-    <itunes:image href=""></itunes:image>
     <itunes:summary>JSNext Podcast 是由 Randy, Howard, 阴明 主持的前端技术类中文播客节目，讨论时下前端技术相关的一切，争取每期邀请符合主题的优秀工程师一起聊聊。希望用 podcast 形式记录前端技术发展重要的每一步。</itunes:summary>
+    <description></description>
+    <itunes:owner>
+      <itunes:name>JSNext.fm</itunes:name>
+      <itunes:email>randypriv@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href=""></itunes:image>
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
-    <language>zh-CN</language>
+    <title><![CDATA[JSNext.fm]]></title>
+    <itunes:subtitle>Chinese front-end podcast</itunes:subtitle>
 
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <description></description>
-    <pubDate>Tue, 05 Jan 2016 05:01:51 GMT</pubDate>
-    <generator>http://hexo.io/</generator>
+    <pubDate>Tue, 05 Jan 2016 06:58:17 GMT</pubDate>
+
     
     <item>
       <title><![CDATA[#1 前端技术 2015 回顾与 2016 的展望]]></title>
-      <link>http://jsnext.fm/2016/01/04/hello-world/</link>
-
-      <itunes:duration>7777</itunes:duration>
-      <itunes:subtitle><p>本期由三位主播回顾 2015 年前端技术的变化和展望 2016 年。</p>
-<p>相关连接</p>
-<ul>
-<li><a href="https://github.com/oneuijs/You-Dont-Need-jQuery">You Don’t Need jQuery</a></li>
-</ul></itunes:subtitle>
+      <itunes:author>JSNext.fm</itunes:author>
+      <itunes:subtitle>本期由三位主播回顾 2015 年前端技术的变化和展望 2016 年。</itunes:subtitle>
       
         <itunes:summary type="html">&lt;p&gt;本期由三位主播回顾 2015 年前端技术的变化和展望 2016 年。&lt;/p&gt;
 &lt;p&gt;相关连接&lt;/p&gt;
@@ -34,11 +31,14 @@
 &lt;li&gt;&lt;a href=&quot;https://github.com/oneuijs/You-Dont-Need-jQuery&quot;&gt;You Don’t Need jQuery&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</itunes:summary>
       
+      <itunes:image href=""></itunes:image>
       <enclosure url="_posts/hello-world.md" type="audio/mpeg" />
-      <pubDate></pubDate>
+      <pubDate>Mon, 04 Jan 2016 10:29:25 GMT</pubDate>
+      <itunes:duration>7777</itunes:duration>
+
+      <link>http://jsnext.fm/2016/01/04/hello-world/</link>
 
       <guid>http://jsnext.fm/2016/01/04/hello-world/</guid>
-      <pubDate>Mon, 04 Jan 2016 10:29:25 GMT</pubDate>
       <description>
       <![CDATA[<p>本期由三位主播回顾 2015 年前端技术的变化和展望 2016 年。</p>
 <p>相关连接</p>
@@ -60,3 +60,4 @@
     
   </channel>
 </rss>
+
